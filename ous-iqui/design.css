@@ -13,7 +13,7 @@ body {
 }
 
 :root {
-    --color:   #FF6C6C;
+    --color:   #80aed3;
 
     --c1dark:  #1A1A1B;
     --c1light: #A6A7B1;
@@ -53,6 +53,6 @@ CTA
 
 *********************************************/
 .cta button{
-    background-color: var(--c1dark);
-    color: #F1F1F1;
+    background-color: var(--color);
+    color: #222;
 }
