@@ -135,6 +135,7 @@ CTA
     border-bottom-right-radius: 30px;
     cursor: pointer;
     font-size: 12px;
+    font-weight: bold;
     text-transform: uppercase;
     transition: background-color 0.3s ease;
 }
